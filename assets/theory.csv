@@ -1,0 +1,101 @@
+﻿number,category,validity,value,improvement,claim,source_page
+1,8,Mixed,Moderate,Unconfirmed,"Block-inverse, leave-one-out/leave-two-out and fixed-parameter variance identities hold.",24
+2,3,Supported,High,Verified,Necessary and sufficient PSD/PD conditions for two groups.,24
+3,4,Supported,High,Verified,"A finite-candidate, single-batch greedy factor and a relaxation-gap bound.",24
+4,2,Mixed,Moderate,Verified,Exact marginal AID and a conditional one-step gap bound.,24
+5,2,Supported,High,Verified,"Parity sharpens the distance upper bound: for p = 9, minimum L1 distance is at most 20.",24
+6,5,Supported,High,Verified,"The K1 lower bounds in both experiments are attainable, and both methods attain them.",24
+7,6,Mixed,High,Verified,A repaired kernel-nondegeneracy proof and a conditional error bound for the mesh trend.,24
+8,6,Supported,Moderate,Verified,The correct fixed-nugget limit and a one-step safeguard.,24
+9,2,Supported,Moderate,Verified,Reflection pairs cancel odd central moments; exchanges preserve Latin columns.,24
+10,2,Supported,High,Verified,Exact finite-sample risk and BLUE in the MLSD quotient space.,24
+11,4,Supported,Moderate,Unconfirmed,A one-step safeguard for the same surrogate objective; dependence in A.4 is identified.,24
+12,8,Supported,Moderate,Unconfirmed,A conditional second-moment upper bound and a weight cap.,24
+13,6,Mixed,High,Verified,Input-dependent quadratic-mean moment propagation and conditional mixture-quadrature analysis.,24
+14,7,Supported,High,Verified,Exact recovery in a quadratic position space using the same kernel.,24
+15,4,Supported,High,Verified,A variance lower bound with mandatory quality constraints is attainable; both methods approach it.,24
+16,3,Mixed,High,Verified,An exchangeable Gaussian counterexample refutes the original closed-form batch probability.,24
+17,3,Pending,Moderate,Pending,Interim review supports the normalized likelihood and finite-candidate conditional EI derivation.,24
+18,2,Supported,High,Verified,"The LHD(6,3) bound tightens from 7 to 6, with O(n) exchange increments.",24
+19,5,Supported,High,Verified,Exact optimality of the full contamination vector within three fixed OA-template domains.,25
+20,4,Supported,Moderate,Unconfirmed,Woodbury reduction and response grouping preserve the complete mean/SD information blocks.,25
+21,2,Supported,High,Verified,A finite balanced-count upper bound and a global optimality certificate when it is attained.,25
+22,4,Supported,Moderate,Unconfirmed,Survival-mass convolution computes stopping probabilities exactly; the scalar criterion preserves priority in N.,25
+23,2,Conditional,High,Verified,A 1/(2√5) factor for finite-domain separation and a factor-2 guarantee for uniform coverage.,25
+24,3,Conditional,Moderate,Verified,Convergence of ideal randomized safeguard queries without assuming a correct surrogate.,25
+25,2,Mixed,High,Verified,"At the same stationary distribution, the modified kernel does not increase asymptotic variance per transition.",25
+26,2,Supported,High,Verified,O(n) exchange differences and verifiable one-exchange local optimality.,25
+27,4,Supported,High,Verified,Fixed-prefix dynamic-programming optimality and weak dominance on finite-reference MSE.,25
+28,1,Mixed,High,Verified,A traceable three-term error bound and a gap in the original epsilon-dependent constants.,25
+29,6,Pending,Moderate,Pending,Interim review supports the tower identity for a fixed empirical posterior and a 100·TV bound.,25
+30,9,Supported,High,Verified,A repaired original spectral bound and conditionally unbiased estimation.,25
+31,6,Conditional,Moderate,Verified,Exact probit interpolation within the stated surrogate.,25
+32,7,Supported,High,Verified,A full-permutation construction simultaneously attains B = 0 and LC = 2(m!−1).,25
+33,6,Supported,High,Verified,A four-point counterexample and a repair of strict positive definiteness of the joint kernel.,25
+34,7,Supported,Moderate,Unconfirmed,A position bijection preserves COA balance; D-efficiency is at most 1 for the specified model.,25
+35,1,Conditional,Moderate,Unconfirmed,Total-variance decomposition for the full censored posterior.,25
+36,6,Conditional,High,Verified,A nondegenerate random PrBF limit at the target dose.,25
+37,7,Supported,Moderate,Unconfirmed,"Within-stratum exchanges preserve SO; SCP information equals the full design, with efficiency at most 1.",26
+38,4,Supported,Moderate,Verified,Exact KKT-interval scoring.,26
+39,7,Supported,High,Verified,Sixty exact rational Bellman certificates verify optimal orders for the fitted objective.,26
+40,7,Conditional,High,Verified,"Within a full-rank polynomial family, OLS quadratic noise-bias subtraction and the clipping inequality hold.",26
+41,4,Supported,Moderate,Verified,Rank-two determinant updates hold; symmetrization gives an isotropic relaxation upper bound.,26
+42,7,Supported,High,Verified,Reverse pairing attains the DD² lower bound: 0 in the even case and q/(2n²) in the odd case.,26
+43,9,Supported,Moderate,Unconfirmed,Character sums explain the clarity decomposition; the selected complete model has rank 121.,26
+44,1,Conditional,High,Verified,A noiseless quadratic truth and design rank 6 allow exact recovery of the forward function and Jacobian.,26
+45,7,Supported,High,Verified,"L1 distances between permutation vectors are even, so odd upper bounds can be rounded down.",26
+46,10,Conditional,High,Verified,"With known variance and orthogonality, selection uses Z² > log n and false-selection rates are explicit.",26
+47,8,Conditional,High,Verified,A corrected Frobenius spectral bound.,26
+48,7,Supported,High,Verified,Rank deficiency and a −1/4 counterexample to the raw-response range.,26
+49,4,Conditional,High,Verified,An efficiency lower bound of 1/r replaces 2−r.,26
+50,9,Supported,High,Verified,"An exact optimality certificate within the fixed class of 15,360 six-foldovers.",26
+51,2,Supported,High,Verified,A finite-field prefix-rank certificate and objective non-deterioration.,26
+52,4,Conditional,High,Verified,The full PSD E-subgradient and a quantified optimality gap.,26
+53,2,Supported,Moderate,Unconfirmed,"The average-distance upper bound, exact neighborhood updates and finite-state strict descent are valid.",26
+54,10,Conditional,Moderate,Unconfirmed,Gaussian adjustment and the scale distribution hold for a fixed true inactive set.,26
+55,6,Supported,Moderate,Verified,Explicit contraction in the finite-grid greedy tail.,27
+56,9,Supported,Moderate,Verified,Exact information blocking and projection tables.,27
+57,9,Conditional,Moderate,Unconfirmed,"For fixed features and regularization, the ridge Gram matrix is positive definite and conditional contraction holds.",27
+58,6,Pending,Moderate,Pending,Interim review accepts a repaired integrability argument at two singular corners and conditional unbiasedness under ideal randomization.,27
+59,2,Supported,Moderate,Verified,Group-difference reduction and PGLP-window equivalence.,27
+60,2,Supported,High,Verified,A repair of constrained projections and coverage MM.,27
+61,2,Mixed,Moderate,Verified,Exact increments for affected pairs support nondegenerate exchanges starting from the baseline.,27
+62,2,Conditional,High,Verified,Validity after fine-digit exchanges and inherited correlation bounds.,27
+63,10,Supported,High,Verified,A closed-form odd-case determinant and an integer-optimal choice.,27
+64,5,Supported,High,Verified,"Kernel-basis witnesses cover all nonzero linear functionals, preserving the full lexicographic optimization domain.",27
+65,9,Supported,Moderate,Unconfirmed,Broadcasting/indexing is algebraically equivalent to the original construction and yields the same final array.,27
+66,4,Conditional,Moderate,Unconfirmed,"Antipodal pairs remove cross terms, yielding a conditional risk formula and perturbation bound.",27
+67,2,Supported,High,Verified,An OLHD certificate for the actual support and restricted residual optimization.,27
+68,2,Supported,Moderate,Unconfirmed,LHD exchanges preserve levels; retention of complete distances guarantees non-deterioration in the first experiment.,27
+69,2,Supported,Moderate,Unconfirmed,The kernel sum is a positive affine transform of WD²; baseline retention and direct checks preserve the computed objective.,27
+70,9,Supported,High,Verified,Product-distance and intersection-number decompositions yield exactly equivalent computations with fewer operations.,27
+71,9,Supported,Moderate,Verified,Symmetry weights and batched enumeration preserve optimal values and solution multiplicities.,27
+72,2,Supported,High,Verified,"With fixed pairwise level counts, Jensen’s inequality gives a valid lower bound for balanced arrays.",27
+73,6,Conditional,Moderate,Unconfirmed,"For fixed G, information updates do not increase local trace(GCG^T).",28
+74,6,Mixed,Moderate,Unconfirmed,GP variance decreases in one step at fixed hyperparameters and weights; the additive kernel is PSD.,28
+75,2,Supported,Moderate,Verified,Within-coarse-cell exchanges preserve strength 3 and P4; exact distance increments support descent.,28
+76,2,Supported,High,Verified,An occupancy relaxation certifies a regular subclass; the general frame lower bound is attainable at the saturated size.,28
+77,7,Conditional,Moderate,Verified,Capacity-state k-best dynamic programming is exact for additive surrogates; a positive ridge penalty gives a unique fit.,28
+78,6,Conditional,Moderate,Unconfirmed,Exact cancellation in HRK one-step ALC and its conditional-variance interpretation.,28
+79,7,Supported,High,Verified,Group-average optimality after correcting the uniform matrix.,28
+80,9,Conditional,High,Verified,Foldover reflection cancels odd central moments; GLS recovers quadratic slopes under the stated conditions.,28
+81,6,Conditional,Moderate,Unconfirmed,Geometric contraction of the scalar bracketing mechanism.,28
+82,10,Conditional,High,Verified,Finite-grid coverage gives a Q/r² uncovered-region bound and conditional interpolation bounds.,28
+83,2,Pending,Moderate,Pending,"Interim review retains elementary distance bounds and norm analysis, while correcting the meaning of restricted MIP certificates.",28
+84,7,Conditional,Moderate,Unconfirmed,A global finite-candidate D-efficiency lower bound.,28
+85,5,Supported,High,Verified,The available bound gamma_32 ≥ 6 is strengthened to the exact value 8.,28
+86,7,Supported,Moderate,Unconfirmed,A distinct-candidate upper bound for the composite objective.,28
+87,4,Mixed,High,Verified,Fixed-predictor slices reduce to 160 edges; a rigorous upper bound U would give efficiency at least p/U.,28
+88,2,Supported,Moderate,Unconfirmed,Rotations and sign changes preserve orthogonality; projection improvements retain the baseline distance floor.,28
+89,4,Mixed,Moderate,Unconfirmed,Coordinate invariance and conditional sensitivity arguments are algebraically consistent under their assumptions.,28
+90,6,Conditional,High,Verified,A truncation-error certificate from Hamming tail mass.,28
+91,6,Conditional,High,Verified,Exact expected variance for joint exploration/replication batches and same-state candidate dominance.,29
+92,4,Supported,High,Verified,Exact rational near-optimality certificates for finite-candidate designs.,29
+93,9,Supported,High,Verified,Schur complements and determinant updates are valid; an information upper bound yields a conservative efficiency lower bound.,29
+94,6,Conditional,High,Verified,Uniform covariance convergence in every direction for ideal globally near-optimal trace-SUR.,29
+95,3,Conditional,High,Verified,An explicit connected dimension-one counterexample whose shortest path grows logarithmically.,29
+96,3,Mixed,Moderate,Unconfirmed,The half-mixture variance identity gives the lower bound v_w ≥ 0.5v.,29
+97,4,Supported,High,Verified,An explicit counterexample to a trace-type prior claim and a finite-candidate lower bound.,29
+98,8,Supported,Moderate,Unconfirmed,Unbiasedness without surrogate correctness; same-proposal stratification does not increase variance.,29
+99,4,Supported,High,Verified,Finite SH requires d > 2; all-zero counts leave preliminary calibration undefined.,29
+100,4,Supported,High,Verified,An explicit sufficient 4Λ condition for optimal design under a bi-invariant metric.,29
