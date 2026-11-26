@@ -7,9 +7,11 @@
   <meta name="description" content="A research atlas of 100 papers in design of experiments: original and AI-modified methods, numerical comparisons, and theoretical results across ten categories.">
   <title>Design of Experiments · UQ Research</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/site.css">
-  <script src="assets/data.js" defer></script>
-  <script src="assets/app.js" defer></script>
+  <link rel="stylesheet" href="assets/site.css?v=1.1.0">
+  <link rel="stylesheet" href="assets/update.css?v=1.1.0">
+  <script src="assets/data.js?v=1.1.0" defer></script>
+  <script src="assets/visitors.js?v=1.1.0" defer></script>
+  <script src="assets/app.js?v=1.1.0" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
@@ -22,13 +24,16 @@
       <a href="#papers" data-nav="papers"><svg viewBox="0 0 24 24"><path d="M5 3h10l4 4v14H5zM15 3v5h4M8 12h8M8 16h6"/></svg>Paper library<span class="nav-number">100</span></a>
       <a href="#theory" data-nav="theory"><svg viewBox="0 0 24 24"><path d="M8 4h12M8 12h12M8 20h12M3 3l2 2 3-3M3 11l2 2 3-3M3 19l2 2 3-3"/></svg>Theory review</a>
       <a href="#reports" data-nav="reports"><svg viewBox="0 0 24 24"><path d="M12 3v12m-4-4 4 4 4-4M4 16v5h16v-5"/></svg>Reports & data</a>
+      <a href="#visitors" data-nav="visitors"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18M5 6.5h14M5 17.5h14"/></svg>Visitor map</a>
+      <a href="#contact" data-nav="contact"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 6 9 7 9-7"/></svg>Contact us</a>
     </nav>
     <div class="sidebar-foot"><span class="eyebrow">LLMUQ</span><p>Methods. Experiments.<br>Evidence.</p><a href="#reports">Read the full reports</a></div>
   </aside>
   <div class="workspace">
     <header class="topbar"><button class="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button><div class="breadcrumb"><a href="#overview">UQ</a><span>/</span><a href="#overview">DOE</a><span>/</span><span id="current-section">Overview</span></div><a class="topbar-report" href="documents/doe-detailed-report.pdf" target="_blank" rel="noopener">Full report <span>PDF</span></a></header>
     <main id="main" tabindex="-1"><div class="loading">Loading the research collection…</div><noscript><p>Enable JavaScript to explore the charts and papers. The <a href="documents/doe-detailed-report.pdf">complete detailed report</a> is also available as a PDF.</p></noscript></main>
-    <footer class="footer"><a href="#overview">UQ Research</a><span>Design of Experiments · 100-paper collection</span><a href="#reports">Sources & downloads</a></footer>
+    <div id="visitor-map-home" hidden></div>
+    <footer class="footer"><a href="#overview">UQ Research</a><span>Site v1.1.0 · Results v1.0</span><a href="#reports">Reports</a><a href="#visitors">Visitor map</a><a href="#contact">Contact us</a></footer>
   </div>
   <div id="toast" role="status" aria-live="polite"></div>
 </body>

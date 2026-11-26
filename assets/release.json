@@ -1,0 +1,27 @@
+{
+  "site_version": "1.1.0",
+  "results_version": "1.0",
+  "results_label": "Results version 1.0",
+  "results_scope": "The first published 100-paper report dataset. The numerical results and reports are unchanged in this website update.",
+  "contact_email": "LLM_UQ@163.com",
+  "history": [
+    {
+      "version": "1.1.0",
+      "changes": "Publication details for all 100 papers, visitor statistics, private email feedback, and explicit data availability and version labels."
+    },
+    {
+      "version": "1.0.0",
+      "changes": "Initial English website: 100 papers, ten categories, experimental results, theory reviews and two reports."
+    }
+  ],
+  "analytics": {
+    "provider": "Flag Counter",
+    "counter_id": "DTCs",
+    "image_url": "https://s05.flagcounter.com/map/DTCs/size_l/txt_102A43/border_DCE5EB/pageviews_1/viewers_UQ+Research+Visitors/flags_1/",
+    "statistics_url": "https://info.flagcounter.com/DTCs",
+    "privacy_url": "https://www.flagcounter.com/privacy.html",
+    "faq_url": "https://www.flagcounter.com/faq.html",
+    "production_host": "llmuq.github.io",
+    "started_in_site_version": "1.1.0"
+  }
+}
